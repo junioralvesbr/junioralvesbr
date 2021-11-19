@@ -1,12 +1,11 @@
-###  👋
 - 🔭 Atualmente trabalho com infraestrutura de redes e servidores Linux
 - 🌱 Estou estudando Front-end
 
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junioralvesbr&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioralvesbr&langs_count=16&layout=compact&theme=tokyonight"
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=junioralvesbr&show_icons=true&theme=tokyonight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioralvesbr&langs_count=16&layout=compact&theme=tokyonight"
 </div>
   
 <div>
