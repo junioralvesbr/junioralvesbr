@@ -3,10 +3,10 @@
 
 ##
 
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=junioralvesbr&show_icons=true&theme=tokyonight">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioralvesbr&langs_count=16&layout=compact&theme=tokyonight"
-</div>
+#<div>
+#  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=junioralvesbr&show_icons=true&theme=tokyonight">
+#  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioralvesbr&langs_count=16&layout=compact&theme=tokyonight"
+#</div>
   
 <div>
   <img width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
