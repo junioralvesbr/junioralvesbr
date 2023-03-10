@@ -36,9 +36,6 @@
    <a href="https://medium.com/@junioralves_11958" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="30" alt="medium logo"  />
   </a>
-  <a href="https://dev.to/junioralvesbr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="30" alt="devto logo"  />
-  </a>
 </div>
 
 ###
