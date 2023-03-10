@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/junioralvesbr/junioralvesbr/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/junioralvesbr/junioralvesbr/blob/output/snake.svg" alt="Snake animation" />
 
 ###
