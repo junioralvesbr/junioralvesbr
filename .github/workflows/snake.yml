@@ -7,12 +7,16 @@ on:
   workflow_dispatch:
 
   push:
-    branches:
-    - master
+    branches: [ "main" ]
 
-jobs:
+jobs:           
   generate:
     runs-on: ubuntu-latest
+    
+    strategy:
+        matrix:
+          node-version: [18]
+          # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
       - name: generate snake.svg
