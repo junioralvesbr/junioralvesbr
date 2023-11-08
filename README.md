@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is junior and I work in IT and I really enjoy doing web projects</p>
+<p align="left">My name is Junior Alves</p>
 
 ###
 
